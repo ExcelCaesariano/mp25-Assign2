@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Warna</string>
+    <string name="hint_input">Masukkan warna (contoh: Merah)</string>
+    <string name="button_text">Tampilkan Warna</string>
+    <string name="error_message">Warna tidak dikenali</string>
+</resources>
